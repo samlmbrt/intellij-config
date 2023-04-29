@@ -1,0 +1,13 @@
+<keymap version="1" name="Samuel's Keymap" parent="Mac OS X 10.5+">
+  <action id="ActivateDatabaseToolWindow">
+    <keyboard-shortcut first-keystroke="meta 7" />
+  </action>
+  <action id="ActivateMavenToolWindow">
+    <keyboard-shortcut first-keystroke="meta 8" />
+  </action>
+  <action id="ActivateServicesToolWindow" />
+  <action id="ActivateStructureToolWindow" />
+  <action id="SelectInProjectView">
+    <keyboard-shortcut first-keystroke="ctrl alt l" />
+  </action>
+</keymap>
